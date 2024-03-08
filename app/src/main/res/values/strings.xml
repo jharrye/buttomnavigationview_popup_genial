@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ButtomNavigationView_PopUp_genial</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_directories">Directorio</string>
+    <string name="menu_notifications">Notificaciones</string>
+
+    <string name="option_1">
+        <font color="#000000">inicio</font>
+    </string>
+
+    <string name ="option_2">
+        <font color="#000001">directorio</font>
+    </string>
+
+    <string name="option_3">
+        <font color='#000000'>notificaciones</font>
+    </string>
+</resources>

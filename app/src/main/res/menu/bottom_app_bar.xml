@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/accelerator"
+        android:icon="@drawable/ic_action_home"
+        android:title="casa"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/rotation"
+        android:icon="@drawable/ic_action_restauran"
+        android:title="restaurante"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/carryVelocity"
+        android:icon="@drawable/ic_action_carrito"
+        android:title="carrito"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/notifica"
+        android:icon="@drawable/ic_action_campana"
+        android:title="campana"
+        app:showAsAction="ifRoom"/>
+
+</menu>
